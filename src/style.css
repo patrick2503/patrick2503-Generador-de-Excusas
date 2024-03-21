@@ -1,1 +1,6 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+#excuse {
+  text-align: center;
+}
+.title {
+  text-align: center;
+}
